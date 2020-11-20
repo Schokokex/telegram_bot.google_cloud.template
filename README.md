@@ -42,3 +42,8 @@ foo-1: function name in Google Functions
 project-1: project id
 
 github_schokokex_template-bot-gcloud: mirrored repo
+
+# Finally.
+Push Cloud Build Trigger?
+
+Open Link from Google Cloud Functions
