@@ -1,3 +1,3 @@
-# Mirror repo
-# Create build trigger
-# Give rights to build trigger
+# 1. Mirror repo
+# 2. Create build trigger
+# 3. Give rights to build trigger (Build Settings)
