@@ -1,4 +1,4 @@
 steps:
 - name: "gcr.io/cloud-builders/gcloud"
-  args: ["functions", "deploy", "cloudy-foo", "--region=europe-west3 --allow-unauthenticated --entry-point=helloWorld --source https://source.developers.google.com/projects/project-1/repos/github_schokokex_template/moveable-aliases/main/paths//target --runtime nodejs12 --trigger-http"]
+  args: ["functions", "deploy", "foo-1", "--region=europe-west3 --allow-unauthenticated --entry-point=helloWorld --source https://source.developers.google.com/projects/project-1/repos/github_schokokex_template/moveable-aliases/main/paths//target --runtime nodejs12 --trigger-http"]
 timeout: "1600s"
