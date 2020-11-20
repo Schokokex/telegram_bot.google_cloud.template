@@ -46,4 +46,4 @@ github_schokokex_template-bot-gcloud: mirrored repo
 # Finally.
 Check if Build worked (if not, open Google Cloud Terminal in browser, type ```gcloud functions deploy foo-1 --region=europe-west3```...)
 
-Open Link from Google Cloud Functions (goto Triggers)
+Open Link from Google Cloud Functions (goto Triggers) e.g. https://europe-west3-project-1.cloudfunctions.net/foo-1
